@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>michael (96).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\test\michael (96).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Scott</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>6</ymin>
+			<xmax>230</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

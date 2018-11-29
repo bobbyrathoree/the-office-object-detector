@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>jim (99).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\test\jim (99).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>243</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jim Halpert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>30</ymin>
+			<xmax>104</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

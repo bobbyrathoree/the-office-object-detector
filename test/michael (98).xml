@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>michael (98).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\test\michael (98).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Scott</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>49</ymin>
+			<xmax>114</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Jim Halpert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>2</ymin>
+			<xmax>259</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

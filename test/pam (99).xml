@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>pam (99).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\test\pam (99).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pam Beasley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>31</ymin>
+			<xmax>151</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>
