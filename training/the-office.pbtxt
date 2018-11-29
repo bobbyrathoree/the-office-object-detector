@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Michael Scott'
+}
+
+item {
+  id: 2
+  name: 'Jim Halpert'
+}
+
+item {
+  id: 3
+  name: 'Dwight Schrute'
+}
+
+item {
+  id: 4
+  name: 'Pam Beasley'
+}
+
+item {
+  id: 5
+  name: 'Ryan Howard'
+}
