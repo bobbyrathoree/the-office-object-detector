@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ryan (63).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\train\ryan (63).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ryan Howard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>7</ymin>
+			<xmax>104</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ryan Howard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>7</ymin>
+			<xmax>282</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>michael (38).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\train\michael (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Scott</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>20</ymin>
+			<xmax>207</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

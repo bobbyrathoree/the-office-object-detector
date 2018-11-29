@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>jim (6).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\train\jim (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jim Halpert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>10</ymin>
+			<xmax>151</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

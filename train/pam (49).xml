@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pam (49).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\train\pam (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pam Beasley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>16</ymin>
+			<xmax>84</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

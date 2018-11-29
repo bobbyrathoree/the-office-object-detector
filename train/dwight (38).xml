@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dwight (38).jpg</filename>
+	<path>C:\Users\Administrator\Downloads\images\train\dwight (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dwight Schrute</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>10</ymin>
+			<xmax>226</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
